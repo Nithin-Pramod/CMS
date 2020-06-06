@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">CMS</string>
+    <string name="welcome_you_are_logged_in">WELCOME YOU ARE LOGGED IN</string>
+    <string name="log_out">Log out</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="name">Name</string>
+    <string name="Continue">Continue</string>
+    <string name="choose_your_category">Choose Your Category :</string>
+    <string name="login">LOGIN</string>
+    <string name="search_doctors_near_me">Search Doctors near me</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="not_registered_click_here">Not registered ? Click here</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="cms">CMS</string>
+    <string name="click_here_to_for_doctor_s_login">Click here to for doctor,s Login</string>
+    <string name="doctors_near_me">Doctors near me</string>
+    <string name="health_checkup">Health Checkup</string>
+    <string name="answer_these_questions">Answer these questions</string>
+    <string name="_0">0</string>
+    <string name="do_you_had_a_direct_contact_with_a_covid_positive_patient">Do you had a direct contact with a covid positive patient?</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="finish">FINISH</string>
+    <string name="click_here_for_doctor_s_login">Click here for Doctor\'s Login</string>
+    <string-array name="category">
+        <item>Doctor</item>
+        <item>Patient</item>
+    </string-array>
+</resources>
